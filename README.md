@@ -86,7 +86,7 @@ AA_total;
 ## Instalación
 ### Descargar Repositorio
 `
-git clone https://github.com/artivol31/Programacion.git
+git clone https://github.com/artivol31/Actividad-E2.git
 `
 ### Ingresar al repositorio
 `
